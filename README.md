@@ -28,5 +28,6 @@ This repo was put together by Hugh Paterson III on September 9th 2022. To the ex
 
 This repo is designed to be the "data pack" part of the following conference presentation:
 
-Paterson III, Hugh J. 2022. A Vision for New Participation in OLAC: Beyond an Agenda for Open Language Archiving. Paper presented at the Language Documentation and Archiving Conference. Berlin-Brandenburgische Akademie der Wissenschaften, Berlin, Germany. October 5th–7th. https://hughandbecky.us/Hugh-CV/talk/2022-a-vision-for-new-participation-in-olac/
+Paterson III, Hugh J. 2022. A Vision for New Participation in OLAC: Beyond an Agenda for Open Language Archiving. Paper presented at the Language Documentation and Archiving Conference. Berlin-Brandenburgische Akademie der Wissenschaften, Berlin, Germany. October 5th–7th. [![DOI](https://zenodo.org/badge/534848930.svg)](https://zenodo.org/badge/latestdoi/534848930)
+ https://hughandbecky.us/Hugh-CV/talk/2022-a-vision-for-new-participation-in-olac/ 
 
