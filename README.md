@@ -7,6 +7,19 @@ This repo contains the following files:
 
 ![](/OLAC-Social-Network.png)
 
+While conducting this analysis it became apparant that there were several clades of providers which developed. Those are indicated in this image. The image is incomplete with regard to the total number of data providers. It lacks the following data providers which were left out for visual space contraint reasons (and no other reason). Their data does remain in the CSV file.
+
+* Language resources at the Text Laboratory
+* IULA UPF OAI Archive
+* ODIN - The Online Database of Interlinear Text
+* Cornell Language Acquisition Lab
+* Living Archive of Aboriginal Languages
+* Lund University Humanities Lab corpusserver
+* Magoria Books' Carib and Romani Archive
+* Multimodal Learning and teaching Corpora Exchange
+* Perseus digital library
+* The LINGUIST List Language Resources
+
 ### About
 
 #### Author, Date, License
